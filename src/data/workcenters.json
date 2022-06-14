@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "General",
+    "account": { "id": 1, "name": "ePixelation" },
+    "metaData": { "docs": 2, "tasks": 1, "posts": 21 },
+    "isActive": true
+  },
+  {
+    "id": 2,
+    "name": "Finance & Investments",
+    "account": { "id": 1, "name": "ePixelation" },
+    "metaData": { "docs": 0, "tasks": 4, "posts": 2 },
+    "isActive": false
+  },
+  {
+    "id": 3,
+    "name": "Mortgage & Properties",
+    "account": { "id": 1, "name": "ePixelation" },
+    "metaData": { "docs": 0, "tasks": 0, "posts": 0 },
+    "isActive": false
+  },
+  {
+    "id": 4,
+    "name": "Storage",
+    "account": { "id": 1, "name": "ePixelation" },
+    "metaData": { "docs": 12, "tasks": 3, "posts": 2 },
+    "isActive": false
+  }
+]

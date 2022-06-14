@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "John Smith",
+    "type": "Personal",
+    "role": "Administrator",
+    "isActive": true
+  },
+  {
+    "id": 2,
+    "name": "ProLink Solutions",
+    "type": "Business",
+    "role": "Member",
+    "isActive": true
+  },
+  {
+    "id": 3,
+    "name": "Big Business LLC",
+    "type": "Business",
+    "role": "Member",
+    "isActive": true
+  },
+  {
+    "id": 4,
+    "name": "ePixelation",
+    "type": "Business",
+    "role": "Administrator",
+    "isActive": false
+  }
+]
